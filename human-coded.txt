@@ -1,0 +1,87 @@
+
+TEAM 7
+
+Scansionare un documento su più fogli fronte-retro
+
+La pratica perduta
+Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita nel nulla! 
+Che poi, possibile che nel 2021 ci siano ancora così tanti fogli di carta in giro per l’ufficio?! 
+Ora ci penso io: una bella scansione e l’archiviamo in formato digitale, così la prossima volta so già dove andare a cercarla! 
+L’unica pecca è che lo scanner non ha il fronte-retro automatico e mi tocca farlo a mano. 
+Va beh, poco male, almeno sono pochi fogli!
+
+
+
+/* Generico */
+
+- Siamo seduti davanti alla scrivania
+- Prendiamo i fogli da scansionare.
+- Accendiamo lo scanner.
+- Accendiamo il PC.
+- Verifichiamo collegamento scanner - pc
+  - Se collegato
+  - Altimenti 
+	- Colleghiamo(verifichiamo collegamento cavi),torniamo alla verifica collegamento.
+- Prendiamo il primo foglio della pila
+- Alziamo il coperchio dello scanner
+- Mettiamo il foglio(primo lato)
+- Chiudiamo il coperchio
+- Avviamo la scansione del primo lato
+- Alziamo il coperchio
+- Giriamo il foglio(secondo lato)
+- Chiudiamo il coperchio
+- Avviamo la scansione del secondo lato
+- Verifichiamo se ci sono altri fogli da scansionare
+  - Se ci sono altri fogli
+    - Torna a "Prendiamo il primo foglio della pila"
+  - Altrimenti 
+    - Clicchiamo il tasto "Fine scansione"
+    - Verifichiamo il documento scansionato sul PC
+    - Salviamo il documento.
+- Fine
+  
+
+/* Generico */
+
+
+
+/* Specifico */
+
+- Siamo seduti davanti alla scrivania
+- Accendiamo lo scanner.
+- Accendiamo il PC.
+- Verifichiamo collegamento scanner - pc
+  - Se collegato
+  - Altimenti 
+	- Colleghiamo(verifichiamo collegamento cavi),torniamo alla verifica collegamento.
+
+- Ci alziamo dalla sedia
+- Andiamo a prendere il raccoglitore contenente i fogli da scansionare
+- Ritorniamo alla scrivania
+- Apriamo il raccoglitore
+- Prendiamo il primo foglio della pila
+- Alziamo il coperchio dello scanner
+- Mettiamo il foglio(primo lato)
+- Chiudiamo il coperchio
+- Avviamo la scansione del primo lato
+- Alziamo il coperchio
+- Giriamo il foglio(secondo lato)
+- Chiudiamo il coperchio
+- Avviamo la scansione del secondo lato
+- Verifichiamo se ci sono altri fogli da scansionare
+  - Se ci sono altri fogli
+    - Torna a "Prendiamo il primo foglio della pila"
+  - Altrimenti 
+    - Clicchiamo il tasto "Fine scansione"
+    - Verifichiamo il documento scansionato sul PC
+    - Salviamo il documento.
+   
+- Ci alziamo dalla sedia 
+- Portiamo il raccoglitore al proprio posto.
+ - Se ci sono altri raccoglitori da scansionare
+   - Torna a "Andiamo a prendere il raccoglitore contenente i fogli da scansionare"
+ - Altrimenti 
+   - Torniamo alla scrivania 
+- Fine
+  
+/* Specifico */
